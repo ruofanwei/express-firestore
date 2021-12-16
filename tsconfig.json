@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitReturns": false,
+        "noUnusedLocals": false,
+        "outDir": "build",
+        "sourceMap": true,
+        "strict": true,
+        "target": "esnext",
+        "allowJs": true,
+        "skipLibCheck": true,
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "strictPropertyInitialization": false
+    },
+    "compileOnSave": true,
+    "include": [
+        "src",
+        "config/environment.d.ts"
+    ]
+}
