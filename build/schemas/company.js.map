@@ -1,0 +1,1 @@
+{"version":3,"file":"company.js","sourceRoot":"","sources":["../../src/schemas/company.ts"],"names":[],"mappings":";;;;;;;;AAAA,qCAA2C;AAG3C,qDAAkD;AAMlD,IAAqB,aAAa,GAAlC,MAAqB,aACnB,SAAQ,+BAAc;IAGtB,EAAE,CAAS;IACX,IAAI,CAAS;IACb,IAAI,CAAS;IACb,SAAS,CAAS;IAElB,MAAM,CAAgB;CACvB,CAAA;AAVoB,aAAa;IADjC,IAAA,oBAAU,EAAC,UAAU,CAAC;GACF,aAAa,CAUjC;kBAVoB,aAAa"}
